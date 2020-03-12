@@ -1,3 +1,2 @@
-def introduction(name)
-# puts "Hi, my bame is #{name}"
+def introduction
 end
