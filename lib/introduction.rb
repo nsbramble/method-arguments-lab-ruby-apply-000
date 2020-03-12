@@ -1,2 +1,2 @@
 def introduction(name)
-end
+  puts "hi my nameis #{name} and I am learning to program in #language
